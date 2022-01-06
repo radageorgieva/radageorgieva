@@ -7,7 +7,7 @@ I am a Data Scientist and Data Analyst working as the Nordic Analytics Manager a
 - 🌱 I’m currently learning how to apply end-to-end Advanced Analytics solutions in various Energy, Supply Chain, Heathcare and Retail and Marketing.
 - 📝 I have experience in leveraging Python to automate the extraction of data from complex, difficult-to-read documents, such as Invoices sent in various PDFs formats. The result is ready-to-analyze dataset used for joint business planning.
 - 🥇 I am among the winners of the Vodafone Italia Big Data Challenge 2019.
-- 🤸 Fun Fact: Running 6k a day keep me alive
+- 🤸 Fun Fact: My 6k a day runs are my best mood booster.
 
 
 📝Projects 
