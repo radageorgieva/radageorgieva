@@ -1,6 +1,6 @@
 ### Hi, I am Rada Georgieva 👋
 
-<!--
+### 
 I am a Data Scientist and Data Analyst working as the Nordic Analytics Manager at Procter & Gamble while completing my MSc degree in Business Analytics at Imperial College London.
 
 - 🔭 I’m currently working on Advanced Machine Learning Projects including Image Recognition, Sentiment Analysis and Network Analytics.
@@ -17,4 +17,3 @@ I am a Data Scientist and Data Analyst working as the Nordic Analytics Manager a
 - Email: radageorgieva98@gmail.com
 - Portfolio: 
 
--->
