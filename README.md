@@ -14,5 +14,5 @@ I am a Data Scientist and Data Analyst working as the Nordic Analytics Manager a
 📬Connect with Me📬
 - LinkedIn: https://www.linkedin.com/in/rada-georgieva/
 - Email: radageorgieva98@gmail.com
-- Portfolio: 
+- Portfolio: https://rada-georgieva.github.io/
 
